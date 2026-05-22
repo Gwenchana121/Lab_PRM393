@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
 
                   children: [
                     TextSpan(
-                      text: " Co ",
+                      text: " Cô ",
                       style: TextStyle(
                         color: Colors.red,
                         fontWeight: FontWeight.bold,
@@ -63,7 +63,7 @@ class MyApp extends StatelessWidget {
                     ),
 
                     TextSpan(
-                      text: " Giao ",
+                      text: " Giáo ",
                       style: TextStyle(
                         color: Colors.purple,
                         fontWeight: FontWeight.bold,
